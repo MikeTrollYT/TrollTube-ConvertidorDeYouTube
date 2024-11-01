@@ -26,7 +26,7 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes component
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/MikeTrollYT/TrollTube.git
+   git clone https://github.com/MikeTrollYT/TrollTube-ConvertidorDeYouTube.git
    cd TrollTube
 2. Instala las dependencias del proyecto:
    ```bash
